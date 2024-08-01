@@ -1,0 +1,21 @@
+header {
+    font-size: 150px;
+    background-color: orange;
+}
+
+.logo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 72px;
+}
+
+.scrollable-section {
+    width: 300px;
+    height: 225px;
+    border: 3px solid hsl(22, 76%, 46%);
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+p {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
